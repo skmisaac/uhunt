@@ -184,10 +184,10 @@
 	"buffers":
 	[
 		{
-			"file": "11340.cpp",
+			"file": "12503.cpp",
 			"settings":
 			{
-				"buffer_size": 1392,
+				"buffer_size": 1289,
 				"line_ending": "Unix"
 			}
 		}
@@ -195,9 +195,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 137.0,
+		"height": 335.0,
 		"selected_items":
 		[
+			[
+				"licence",
+				"Licence Snippet: MIT"
+			],
 			[
 				"remove ",
 				"Package Control: Remove Package"
@@ -431,7 +435,7 @@
 				"Set Syntax: Java"
 			]
 		],
-		"width": 633.0
+		"width": 402.0
 	},
 	"console":
 	{
@@ -475,10 +479,14 @@
 	},
 	"file_history":
 	[
+		"/Users/Home/Desktop/development/uhunt/11340.cpp",
+		"/Users/Home/.bash_profile",
+		"/Users/Home/Desktop/development/uhunt/10141.cpp",
+		"/Users/Home/Desktop/development/uhunt/readme.md",
+		"/Users/Home/Desktop/development/uhunt/readme.html",
 		"/Users/Home/Desktop/development/uhunt/11235linear.cpp",
 		"/Users/Home/Desktop/development/uhunt/i11235",
 		"/Users/Home/Desktop/development/uhunt/11235_",
-		"/Users/Home/Desktop/development/uhunt/10141.cpp",
 		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/scanf.sublime-snippet",
 		"/Users/Home/Desktop/development/uhunt/11235_.cpp",
 		"/Users/Home/Desktop/development/uhunt/11364.cpp",
@@ -491,7 +499,6 @@
 		"/Users/Home/Desktop/development/uhunt/11547.cpp",
 		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-snippet",
 		"/Users/Home/Desktop/development/uhunt/579.cpp",
-		"/Users/Home/Desktop/development/uhunt/11340.cpp",
 		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/10038.cpp",
 		"/Users/Home/Desktop/development/uhunt/725.cpp",
 		"/Users/Home/Desktop/development/uhunt/i10141",
@@ -515,7 +522,6 @@
 		"/Users/Home/Desktop/development/uhunt/573.cpp",
 		"/Users/Home/Desktop/development/uhunt/t573",
 		"/Users/Home/Desktop/development/uhunt/11559.cpp",
-		"/Users/Home/.bash_profile",
 		"/Users/Home/Desktop/command-number-tab-master/Rakefile",
 		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Licence Snippets/Default.sublime-commands",
 		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Licence Snippets/Licence Snippets.py",
@@ -600,9 +606,7 @@
 		"/Users/Home/Desktop/courses_scheduler/config/initializers/mime_types.rb",
 		"/Users/Home/Desktop/courses_scheduler/test/fixtures/courses.yml",
 		"/Users/Home/Desktop/courses_scheduler/app/assets/javascripts/courses.js.coffee",
-		"/Users/Home/Desktop/courses_scheduler/app/helpers/courses_helper.rb",
-		"/Users/Home/Desktop/courses_scheduler/config/environments/development.rb",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/filter_parameter_logging.rb"
+		"/Users/Home/Desktop/courses_scheduler/app/helpers/courses_helper.rb"
 	],
 	"find":
 	{
@@ -771,19 +775,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "11340.cpp",
+					"file": "12503.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1392,
+						"buffer_size": 1289,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1134,
-								1134
+								979,
+								979
 							]
 						],
 						"settings":
@@ -792,22 +796,22 @@
 							"WordCountShouldRun": true,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
@@ -816,22 +820,26 @@
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
-								"bh_regex_close"
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close"
 							],
 							"codeintel": true,
 							"codeintel_config":
@@ -936,9 +944,6 @@
 								"Python Django": "Python"
 							},
 							"codeintel_tooltips": "popup",
-							"rulers":
-							[
-							],
 							"sublime_auto_complete": true,
 							"syntax": "Packages/C++/C++.tmLanguage",
 							"tab_size": 2,
@@ -946,6 +951,8 @@
 							"vintage":
 							{
 								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
 								"action": null,
 								"action_count": "",
 								"capture_register": false,
@@ -955,19 +962,12 @@
 								"normal_insert_count": "1",
 								"partial_sequence": "",
 								"register": "\"",
-								"repeat_data":
-								[
-									"vi",
-									"dd",
-									"mode_internal_normal",
-									null
-								],
 								"sequence": "",
 								"xpos": 0
 							}
 						},
 						"translation.x": 0.0,
-						"translation.y": 502.0,
+						"translation.y": 566.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1042,6 +1042,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"11340",
+				"11340.cpp"
+			],
 			[
 				"_",
 				"11235_.cpp"
@@ -1549,10 +1553,6 @@
 			[
 				"curre",
 				"app/controllers/concerns/current_cart.rb"
-			],
-			[
-				"store_contorller",
-				"app/controllers/store_controller.rb"
 			]
 		],
 		"width": 0.0
