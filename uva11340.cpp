@@ -45,7 +45,7 @@ int main(int argc, char const *argv[])
       unsigned long long value;
 
       scanf("%c %llu\n", &c, &value);
-      paidTable[c] = value;
+      paidTable[(int)c] = value;
       // printf("%c: %d\n", c, value);
     }
 
@@ -55,18 +55,14 @@ int main(int argc, char const *argv[])
 
     for (int i = 0; i < M; ++i)
     {
-      unsigned char line[10005];
-      scanf(" %10001[^\n]", line);
-      printf("%s\n", line);
-
-      for (int j = 0; line[j] != '\0'; ++j)
-      {
-        salary += paidTable[line[j]];
-      }
+      unsigned char ch;
+      while ( (ch = getchar()) != '\n' )
+        salary += paidTable[ (int)ch ];
     }
 
     // output
-    printf("%llu.%02llu$\n", salary/100, (salary%100));
+    // printf("%llu.%02llu$\n", salary/100, (salary%100));
+    printf("%.2lf$\n", salary / 100.00);
 
   }
   return 0;
