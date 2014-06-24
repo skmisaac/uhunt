@@ -23,53 +23,44 @@ typedef vector<ii>      vii;
 typedef vector<int>     vi;
 #define INF             1000000000
 
-vector<string>& split(const string &s, char delim, vector<string> &elems) {
-    stringstream ss(s);
-    string item;
-    while (getline(ss, item, delim)) {
-        elems.push_back(item);
-    }
-    return elems;
-}
-
-
 int main(int argc, char const *argv[])
 {
-  int caseID;
-  scanf("%d", &caseID);
+  int TC;
+  scanf("%d", &TC);
 
-  for (int i = 0; i < caseID; ++i)
+  while (TC--)
   {
-    int n, p = 0;
-    scanf("%d\n", &n);
+    int nCommand, pos = 0;
+    int history[110];
+    char command[110];
 
-    string command[110];
-    int step[110];
+    memset(history, 0, sizeof history);
+    scanf("%d\n", &nCommand);
 
-    for (int j = 0; j < n; ++j)
+    for (int j = 1; j <= nCommand; ++j)
     {
-
-      getline(cin, command[j]);
-      if ( command[j].find("LEFT") != -1 )
-      {
-        p--;
-        step[j] = -1;
+      gets(command);
+      if (command[0] == 'L') {
+        pos--; 
+        history[j] = -1;
       }
-      else if ( command[j].find("RIGHT") != -1 )
-      {
-        p++;
-        step[j] = 1;
+
+      else if (command[0] == 'R') {
+        pos++;
+        history[j] = 1;
       }
-      else if ( command[j].find("SAME") != -1)
-      {
 
+      else {
+        int x, ret;
+        char trash[10];
+        sscanf(command, "%s %s %d", trash, trash, &x);
 
-
-
+        pos = pos + history[x];
+        history[j] = history[x];
       }
     }
 
-    printf("%d\n", p);
+    printf("%d\n", pos);
   }
   return 0;
 }

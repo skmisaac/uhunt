@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"t",
+				"TC"
+			],
+			[
 				"no",
 				"noAnswer"
 			],
@@ -183,21 +187,49 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "12503.cpp",
-			"settings":
-			{
-				"buffer_size": 1289,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 335.0,
+		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgra",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"vin",
+				"Vintageous: Exit from command mode"
+			],
+			[
+				"vinta",
+				"Vintageous: Reset"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"cpp",
+				"Package Control: Upgrade Package"
+			],
 			[
 				"licence",
 				"Licence Snippet: MIT"
@@ -205,10 +237,6 @@
 			[
 				"remove ",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"html",
@@ -227,24 +255,12 @@
 				"ColorSchemeSelector: Select Color Scheme"
 			],
 			[
-				"list",
-				"Package Control: List Packages"
-			],
-			[
 				"Snippet: ",
 				"Snippet: scanf"
 			],
 			[
-				"c++",
-				"Set Syntax: C++"
-			],
-			[
 				"MIT",
 				"Licence Snippet: MIT"
-			],
-			[
-				"cpp",
-				"Package Control: Upgrade Package"
 			],
 			[
 				"Snippet: cp",
@@ -367,10 +383,6 @@
 				"Vintageous: Reset"
 			],
 			[
-				"vin",
-				"Vintageous: Run Tests..."
-			],
-			[
 				"instla",
 				"Package Control: Install Package"
 			],
@@ -435,7 +447,7 @@
 				"Set Syntax: Java"
 			]
 		],
-		"width": 402.0
+		"width": 633.0
 	},
 	"console":
 	{
@@ -479,9 +491,74 @@
 	},
 	"file_history":
 	[
+		"/Users/Home/Desktop/cp-book/ch2/uva10281.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva11875.cpp",
+		"/Users/Home/Desktop/development/uhunt/main.java",
+		"/Users/Home/Desktop/development/uhunt/uva10469.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva458.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva458.in",
+		"/Users/Home/Desktop/development/uhunt/uva102.in",
+		"/Users/Home/Desktop/development/uhunt/uva102.cpp",
+		"/Users/Home/Desktop/development/uhunt/CityuOJ/input36",
+		"/Users/Home/Desktop/development/uhunt/uva458",
+		"/Users/Home/Desktop/development/uhunt/uva410",
+		"/Users/Home/Desktop/cp-book/ch2/uva458.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10920.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10038.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10071.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10055.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10071",
+		"/Users/Home/Desktop/development/uhunt/uva10055",
+		"/Users/Home/Desktop/development/uhunt/uva10038",
+		"/Users/Home/Desktop/development/uhunt/uva410.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva11450.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva11450.in",
+		"/Users/Home/Desktop/development/uhunt/uva10055.in",
+		"/Users/Home/Desktop/development/uhunt/10055.cpp",
+		"/Users/Home/Desktop/cp-book/ch3/ch3_02_UVa11450_td.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva11235alvin.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva10341.cpp",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/.vintageousrc",
+		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-snippet",
+		"/Users/Home/Desktop/development/uhunt/hello.cpp",
+		"/Users/Home/Desktop/development/uhunt/hello",
+		"/Users/Home/Desktop/development/uhunt/uhunt.sublime-project",
+		"/Users/Home/Desktop/development/uhunt/uva725",
+		"/Users/Home/Desktop/development/uhunt/uva750",
+		"/Users/Home/Desktop/development/uhunt/uva750.cpp",
+		"/Users/Home/Desktop/development/uhunt/750.out",
+		"/Users/Home/Desktop/development/uhunt/sample10341.in",
+		"/Users/Home/Desktop/development/uhunt/acpc2013/h.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva410.in",
+		"/Users/Home/Desktop/development/uhunt/self410.in",
+		"/Users/Home/Desktop/development/uhunt/sample12503.in",
+		"/Users/Home/Desktop/development/uhunt/uva12503.cpp",
+		"/Users/Home/Desktop/development/uhunt/uva12503",
+		"/Users/Home/Desktop/development/uhunt/uva12250",
+		"/Users/Home/Desktop/development/uhunt/sample750.in",
+		"/Users/Home/Desktop/development/uhunt/sample750.out",
+		"/Users/Home/Desktop/development/uhunt/uva12455.cpp",
+		"/Users/Home/Desktop/development/uhunt/sample12455.in",
+		"/Users/Home/Desktop/development/uhunt/11565.cpp",
+		"/Users/Home/Desktop/development/uhunt/12503.cpp",
+		"/Users/Home/Desktop/development/uhunt/sample11565",
 		"/Users/Home/Desktop/development/uhunt/11340.cpp",
-		"/Users/Home/.bash_profile",
 		"/Users/Home/Desktop/development/uhunt/10141.cpp",
+		"/Users/Home/Desktop/development/uhunt/11935.cpp",
+		"/Users/Home/Desktop/development/uhunt/i11935",
+		"/Users/Home/Desktop/development/uhunt/i11340",
+		"/Users/Home/Desktop/Xcode-Projects/uhunt/readme.md",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/LiveReload/LiveReload.sublime-settings",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/Home/Desktop/development/uhunt/push.sh",
+		"/Users/Home/Desktop/development/drywall/server_src/push",
+		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/.vintageousrc",
+		"/Users/Home/Desktop/development/uhunt/11235kenneth.cpp",
+		"/Users/Home/Desktop/development/uhunt/CityuOJ/oj36.cpp",
+		"/Users/Home/.bash_profile",
 		"/Users/Home/Desktop/development/uhunt/readme.md",
 		"/Users/Home/Desktop/development/uhunt/readme.html",
 		"/Users/Home/Desktop/development/uhunt/11235linear.cpp",
@@ -492,27 +569,21 @@
 		"/Users/Home/Desktop/development/uhunt/11364.cpp",
 		"/Users/Home/Desktop/development/uhunt/11172.cpp",
 		"/Users/Home/Desktop/development/uhunt/10038.cpp",
-		"/Users/Home/Desktop/development/uhunt/i11340",
 		"/Users/Home/Desktop/development/uhunt/i11172",
 		"/Users/Home/Desktop/development/uhunt/i10038",
 		"/Users/Home/Desktop/development/uhunt/11340",
 		"/Users/Home/Desktop/development/uhunt/11547.cpp",
-		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/cp.sublime-snippet",
 		"/Users/Home/Desktop/development/uhunt/579.cpp",
 		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/10038.cpp",
 		"/Users/Home/Desktop/development/uhunt/725.cpp",
 		"/Users/Home/Desktop/development/uhunt/i10141",
-		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/c++/v1/algorithm",
-		"/Users/Home/Desktop/development/uhunt/12503.cpp",
 		"/Users/Home/Desktop/development/uhunt/11547",
 		"/Users/Home/Desktop/development/uhunt/11172",
-		"/Users/Home/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/Home/Desktop/development/uhunt/12646.cpp",
 		"/Users/Home/Desktop/development/uhunt/12503",
 		"/Users/Home/Desktop/development/uhunt/12250",
 		"/Users/Home/Dropbox/Mackup/Library/Application Support/Sublime Text 3/Packages/User/scanf",
-		"/Users/Home/Desktop/development/uhunt/acpc2013/h.cpp",
 		"/Users/Home/Desktop/development/uhunt/i11547",
 		"/Users/Home/Desktop/development/uhunt/t11547",
 		"/Users/Home/Desktop/development/uhunt/272.cpp",
@@ -547,66 +618,7 @@
 		"/Users/Home/Desktop/development/expressjs/nodejs-fb-sample-app/Procfile",
 		"/Users/Home/Desktop/development/expressjs/myapp/bin/www",
 		"/Users/Home/Desktop/development/expressjs/myapp/views/loginSuccess.jade",
-		"/Users/Home/Desktop/development/expressjs/myapp/views/index.jade",
-		"/Users/Home/Desktop/development/expressjs/myapp/routes/loginSuccess.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/lib/middleware/authenticate.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/lib/errors/authenticationerror.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/lib/authenticator.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/LICENSE",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/README.md",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/passport/package.json",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/express/node_modules/connect/node_modules/multiparty/node_modules/readable-stream/passthrough.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/package.json",
-		"/Users/Home/Desktop/development/expressjs/myapp/Procfile",
-		"/Users/Home/Desktop/development/expressjs/myapp/routes/index.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/express/lib/router/index.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/express/lib/application.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/express/LICENSE",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/express/.npmignore",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/.bin/express",
-		"/Users/Home/Desktop/development/expressjs/myapp/node_modules/stylus/lib/browserify.js",
-		"/Users/Home/Desktop/development/expressjs/myapp/node-oauth2-provider/examples/simple_express3.js",
-		"/Users/Home/Desktop/courses_scheduler/app/views/users/confirmations/new.html.erb",
-		"/Users/Home/Desktop/courses_scheduler/test/fixtures/users.yml",
-		"/Users/Home/Desktop/courses_scheduler/tmp/cache/assets/development/sass/4ab1d769ce858269884968483ed4f11900b0e3c8/_pagination.scssc",
-		"/Users/Home/Desktop/courses_scheduler/db/seeds.rb",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/backtrace_silencers.rb",
-		"/Users/Home/Desktop/courses_scheduler/tmp/cache/assets/development/sass/4ab1d769ce858269884968483ed4f11900b0e3c8/_grid.scssc",
-		"/Users/Home/Desktop/courses_scheduler/log/development.log",
-		"/Users/Home/Desktop/courses_scheduler/app/views/user/index.html.haml",
-		"/Users/Home/Desktop/courses_scheduler/app/views/courses/index.html.haml",
-		"/Users/Home/Desktop/courses_scheduler/db/migrate/20140404074333_create_users.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/helpers/application_helper.rb",
-		"/Users/Home/Desktop/courses_scheduler/test/test_helper.rb",
-		"/Users/Home/Desktop/courses_scheduler/db/migrate/20140401115732_create_courses.rb",
-		"/Users/Home/Desktop/courses_scheduler/db/migrate/20140404053434_add_devise_to_users.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/views/layouts/application.html.erb",
-		"/Users/Home/Desktop/courses_scheduler/app/models/student.rb",
-		"/Users/Home/Desktop/courses_scheduler/db/migrate/20140401181425_devise_create_students.rb",
-		"/Users/Home/Desktop/courses_scheduler/config/locales/devise.en.yml",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/devise.rb",
-		"/Users/Home/Desktop/courses_scheduler/Gemfile",
-		"/Users/Home/Desktop/courses_scheduler/app/views/courses/_form.html.erb",
-		"/Users/Home/Desktop/courses_scheduler/app/controllers/courses_controller.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/assets/stylesheets/courses.css.scss",
-		"/Users/Home/Desktop/courses_scheduler/test/controllers/courses_controller_test.rb",
-		"/Users/Home/Desktop/courses_scheduler/test/models/course_test.rb",
-		"/Users/Home/Desktop/courses_scheduler/db/schema.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/models/course.rb",
-		"/Users/Home/Desktop/courses_scheduler/README.md",
-		"/Users/Home/Desktop/courses_scheduler/app/controllers/student_controller.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/views/courses/index.html.erb",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/inflections.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/views/student/index.html.erb",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/session_store.rb",
-		"/Users/Home/Desktop/courses_scheduler/app/controllers/application_controller.rb",
-		"/Users/Home/Desktop/courses_scheduler/db/migrate/20140401160659_devise_create_students.rb",
-		"/Users/Home/Desktop/courses_scheduler/test/models/.keep",
-		"/Users/Home/Desktop/courses_scheduler/app/models/.keep",
-		"/Users/Home/Desktop/courses_scheduler/config/initializers/mime_types.rb",
-		"/Users/Home/Desktop/courses_scheduler/test/fixtures/courses.yml",
-		"/Users/Home/Desktop/courses_scheduler/app/assets/javascripts/courses.js.coffee",
-		"/Users/Home/Desktop/courses_scheduler/app/helpers/courses_helper.rb"
+		"/Users/Home/Desktop/development/expressjs/myapp/views/index.jade"
 	],
 	"find":
 	{
@@ -625,6 +637,30 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			", 3",
+			"strncpy",
+			"bin",
+			"4",
+			"bin",
+			"B",
+			"bin",
+			"Brown",
+			"ld",
+			"vector",
+			"j",
+			"(\"%.",
+			"i",
+			"d",
+			"ld",
+			"(\"%",
+			"typeof",
+			"lo",
+			"x",
+			"caseID",
+			"j",
+			"i",
+			"s1",
+			"numOfchar",
 			"i",
 			"testCase",
 			"quali",
@@ -728,31 +764,7 @@
 			"=\"://",
 			"http",
 			"remote",
-			"\n      ",
-			"cart",
-			"		<",
-			"render @cart",
-			"set_cart",
-			"super+t",
-			"assert",
-			"Rails::Application",
-			"Rails::Depot",
-			"i18n",
-			"assert_select",
-			"#side",
-			"test",
-			"title",
-			"Title",
-			"title",
-			"Title",
-			"title",
-			"Title",
-			"title",
-			"Title",
-			"title",
-			"Title",
-			"title",
-			"Title"
+			"\n      "
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -770,209 +782,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "12503.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1289,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								979,
-								979
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"WordCountShouldRun": true,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close"
-							],
-							"codeintel": true,
-							"codeintel_config":
-							{
-								"JavaScript":
-								{
-									"codeintel_max_recursive_dir_depth": 2,
-									"codeintel_scan_files_in_project": false,
-									"javascriptExtraPaths":
-									[
-									]
-								},
-								"PHP":
-								{
-									"codeintel_max_recursive_dir_depth": 5,
-									"codeintel_scan_files_in_project": false,
-									"phpExtraPaths":
-									[
-									]
-								},
-								"Python":
-								{
-									"env":
-									{
-									}
-								}
-							},
-							"codeintel_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_live": true,
-							"codeintel_live_enabled_languages":
-							[
-								"JavaScript",
-								"Mason",
-								"XBL",
-								"XUL",
-								"RHTML",
-								"SCSS",
-								"Python",
-								"HTML",
-								"Ruby",
-								"Python3",
-								"XML",
-								"Sass",
-								"XSLT",
-								"Django",
-								"HTML5",
-								"Perl",
-								"CSS",
-								"Twig",
-								"Less",
-								"Smarty",
-								"Node.js",
-								"Tcl",
-								"TemplateToolkit",
-								"PHP"
-							],
-							"codeintel_max_recursive_dir_depth": 10,
-							"codeintel_scan_exclude_dir":
-							{
-								"JavaScript":
-								[
-									"/build/",
-									"/min/"
-								]
-							},
-							"codeintel_scan_files_in_project": true,
-							"codeintel_selected_catalogs":
-							[
-								"PyWin32",
-								"jQuery",
-								"Rails"
-							],
-							"codeintel_snippets": true,
-							"codeintel_syntax_map":
-							{
-								"Python Django": "Python"
-							},
-							"codeintel_tooltips": "popup",
-							"sublime_auto_complete": true,
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"_vintageous_glue_until_normal_mode": false,
-								"_vintageous_gluing_sequence": false,
-								"_vintageous_non_interactive": false,
-								"action": null,
-								"action_count": "",
-								"capture_register": false,
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"normal_insert_count": "1",
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 0
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 566.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1043,6 +854,50 @@
 		"selected_items":
 		[
 			[
+				"458cpp",
+				"uva458.cpp"
+			],
+			[
+				"uva100",
+				"uva10055.cpp"
+			],
+			[
+				"10038.",
+				"uva10038.cpp"
+			],
+			[
+				"10055cpp",
+				"uva10055.cpp"
+			],
+			[
+				"hello.",
+				"hello.cpp"
+			],
+			[
+				"750cpp",
+				"uva750.cpp"
+			],
+			[
+				"750",
+				"750.out"
+			],
+			[
+				"alvin",
+				"uva11235alvin.cpp"
+			],
+			[
+				"12503",
+				"uva12503.cpp"
+			],
+			[
+				"11340.cpp",
+				"11340.cpp"
+			],
+			[
+				"i11935",
+				"i11935"
+			],
+			[
 				"11340",
 				"11340.cpp"
 			],
@@ -1068,10 +923,6 @@
 			],
 			[
 				"12503.",
-				"12503.cpp"
-			],
-			[
-				"12503",
 				"12503.cpp"
 			],
 			[
@@ -1513,57 +1364,21 @@
 			[
 				"application.js",
 				"app/assets/javascripts/application.js"
-			],
-			[
-				"store/index",
-				"app/views/store/index.html.erb"
-			],
-			[
-				"appl",
-				"app/assets/stylesheets/application.css.scss"
-			],
-			[
-				"line_itemscont",
-				"app/controllers/line_items_controller.rb"
-			],
-			[
-				"carts/show",
-				"app/views/carts/show.html.erb"
-			],
-			[
-				"carts_contor",
-				"app/controllers/carts_controller.rb"
-			],
-			[
-				"store_con",
-				"app/controllers/store_controller.rb"
-			],
-			[
-				"render",
-				"app/views/store/index.html.erb"
-			],
-			[
-				"application.css.scss",
-				"app/assets/stylesheets/application.css.scss"
-			],
-			[
-				"carts.css.scss",
-				"app/assets/stylesheets/carts.css.scss"
-			],
-			[
-				"curre",
-				"app/controllers/concerns/current_cart.rb"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"",
+				"~/Desktop/cp-book/cpbook.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
@@ -1575,19 +1390,19 @@
 	},
 	"settings":
 	{
-		"_vintageous_last_buffer_search": "\\n",
-		"_vintageous_last_char_search_command": "vi_f",
-		"_vintageous_last_character_search": "l",
+		"_vintageous_last_buffer_search": "BGC",
+		"_vintageous_last_char_search_command": "vi_big_f",
+		"_vintageous_last_character_search": "B",
 		"_vintageous_reset_during_init": true,
 		"vintage":
 		{
-			"_cmdline_cd": "/Users/Home/Desktop/development/uhunt"
+			"_cmdline_cd": "/Users/Home/Desktop/cp-book/ch2"
 		}
 	},
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 218.0,
 	"status_bar_visible": true,
 	"template_settings":
